@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/Levels/L_InsideJob.umap",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/BP_CLUE.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/Input/Actions/IA_InteractE.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/Input/IMC_Default.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/Input/BPI_Interact.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/WBP_ClueFound.uasset",
+				"C:/Users/Nikol/OneDrive/Documents/Unreal Projects/InsideJob/Content/Bp_PickupObject.uasset"
+			]
+		}
+	]
+}
